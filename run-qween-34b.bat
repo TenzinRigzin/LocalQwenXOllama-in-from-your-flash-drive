@@ -1,1 +1,2 @@
-.\llamafile.exe --server --model qwen3-4b-thinking-2507.Q4_K_M.gguf
+.\llamafile.exe --server --model //here write the file name of your gguf model
+
